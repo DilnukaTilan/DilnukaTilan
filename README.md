@@ -15,7 +15,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DilnukaTilan&label=Profile%20views&color=0e75b6&style=flat" alt="DilnukaTilan" /></p>
 
 <div align="center">
-  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="80%" alt="Coding Banner" />
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="100%" alt="Coding Banner" />
 </div>
 
 </div>
