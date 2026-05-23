@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=header" width="100%" />
 
-<p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></p>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></p>
 <h1 align="center">Hi 👋, I'm Tilan Dilnuka</h1>
 <h3 align="center">Passionate Software Developer | Exploring the Boundless World of Technology</h3>
 
@@ -14,16 +14,24 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=DilnukaTilan&label=Profile%20views&color=0e75b6&style=flat" alt="DilnukaTilan" /></p>
 
+<div align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width="70%" alt="Coding Banner" />
 </div>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 <table align="center">
 <tr border="none">
+  
+<td>
+  
+- 🌱 I'm currently learning **Agentic coding**
 
-<td width="50%" align="left">
-
-- 🌱 I’m currently learning **Agentic coding**
-
-- 🧑‍🎓 I’m an Undergraduate at **Plymouth University UK**
+- 🧑‍🎓 I'm an Undergraduate at **Plymouth University UK**
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js**
 
@@ -33,19 +41,8 @@
 
 </td>
 
-<td width="50%" align="center">
-  <img align="center" alt="Coding" width="100%" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</td>
-
-</tr>
-</table>
-
----
-
-## 👨‍💻 About Me
-
-<picture><img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=180px></picture>
-
+<td>
+  
 ```ts
 const developer = {
   name: "Tilan Dilnuka",
@@ -56,6 +53,11 @@ const developer = {
   funFact: "I debug with console.log and I'm not ashamed.",
 };
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -127,8 +129,6 @@ const developer = {
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DilnukaTilan/DilnukaTilan/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> **Enable the snake:** Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo to auto-generate the animation on each push.
 
 ---
 
