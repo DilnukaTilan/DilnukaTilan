@@ -129,10 +129,6 @@ const developer = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilnukaTilan&theme=react-dark&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DilnukaTilan&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
