@@ -75,8 +75,11 @@ const developer = {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,framer&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 #### Mobile
