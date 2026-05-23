@@ -77,7 +77,7 @@ const developer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
   </a>
-  &nbsp;
+  <br />
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
@@ -95,7 +95,7 @@ const developer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
   </a>
-  &nbsp;
+  <br />
   <img src="https://img.shields.io/badge/Better_Auth-6C63FF?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
@@ -113,7 +113,7 @@ const developer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman&theme=dark" />
   </a>
-  &nbsp;
+  <br />
   <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
