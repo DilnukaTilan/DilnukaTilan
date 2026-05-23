@@ -44,7 +44,7 @@
 
 ## 👨‍💻 About Me
 
-<picture><img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=200px></picture>
+<picture><img align="left" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=180px></picture>
 
 ```ts
 const developer = {
