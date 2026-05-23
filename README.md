@@ -48,7 +48,7 @@
 const developer = {
   name: "Tilan Dilnuka",
   role: "Full-Stack Developer",
-  location: "🌍 Colombo, Sri Lanka",
+  location: "🌍 Gampaha, Sri Lanka",
   focus: ["Web Apps", "APIs", "Mobile Apps"],
   currently: "Building something cool 🚧",
   funFact: "I debug with console.log and I'm not ashamed.",
