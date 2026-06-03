@@ -123,10 +123,6 @@ const developer = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DilnukaTilan&theme=tokyonight&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilnukaTilan&theme=react-dark&hide_border=true)
 
 ---
