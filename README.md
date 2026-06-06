@@ -149,15 +149,16 @@ const developer = {
 
 <br/>
 
-<div align="center">
+<p align="center">
+  <b>Show some ❤️ by starring some of the repositories!</b>
+  <br/>
   <a href="mailto:tilandilnuka@gmail.com">
     <img alt="Tilan email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
   </a>
   <a href="https://notbyai.fyi/#not-by-ai-mission">
     <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
   </a>
-  <b>Show some ❤️ by starring some of the repositories!</b>
-</div>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
