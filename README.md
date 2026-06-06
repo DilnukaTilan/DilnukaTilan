@@ -77,9 +77,6 @@ const developer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 #### Mobile
@@ -95,8 +92,6 @@ const developer = {
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/Better_Auth-6C63FF?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 #### Database & Backend Platform
@@ -107,16 +102,12 @@ const developer = {
   </a>
 </p>
 
-#### AI & Developer Tools
+#### Developer Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman&theme=dark" />
   </a>
-  <br />
-  <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -133,7 +124,7 @@ const developer = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilan-dilnuka)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Tilan_Dilnuka)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Tilan_Dilnuka)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tilandilnuka@gmail.com)
 
 </div>
