@@ -127,18 +127,6 @@ const developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/DilnukaTilan/DilnukaTilan/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DilnukaTilan/DilnukaTilan/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DilnukaTilan/DilnukaTilan/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -160,6 +148,16 @@ const developer = {
 </div>
 
 <br/>
+
+<p align="center">
+  <a href="mailto:tilandilnuka@gmail.com">
+    <img alt="Tilan email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
+  </a>
+  <a href="https://notbyai.fyi/#not-by-ai-mission">
+    <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
+  </a>
+  <b>Show some ❤️ by starring some of the repositories!</b>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
