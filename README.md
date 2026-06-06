@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=100px></p>
 <h1 align="center">Hi 👋, I'm Tilan Dilnuka</h1>
-<h3 align="center">⊹₊˚‧︵‿₊ Passionate Software Developer | Exploring the Boundless World of Technology ₊‿︵‧˚₊⊹</h3>
+<h3 align="center">Passionate Software Developer | Exploring the Boundless World of Technology</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+things+for+the+web+%F0%9F%8C%90;Turning+ideas+into+products+%F0%9F%9A%80;Clean+code+%2B+great+UX+%3D+%E2%9D%A4%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
