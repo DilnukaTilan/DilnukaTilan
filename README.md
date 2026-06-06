@@ -152,6 +152,7 @@ const developer = {
 <p align="center">
   <b>Show some ❤️ by starring some of the repositories!</b>
   <br/>
+  <br/>
   <a href="mailto:tilandilnuka@gmail.com">
     <img alt="Tilan email" src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/naren/mailput.gif" align="left" />
   </a>
