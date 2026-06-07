@@ -143,6 +143,10 @@ const developer = {
 
 ## 🤝 Connect With Me
 
+<p align="center">
+  <img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</p>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tilan-dilnuka)
