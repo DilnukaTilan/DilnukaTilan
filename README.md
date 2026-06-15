@@ -131,7 +131,12 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DilnukaTilan&theme=tokyonight&background=0d1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+
+![](https://github-readme-stats.vercel.app/api?username=DilnukaTilan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DilnukaTilan&theme=tokyonight&hide_border=false)
+<br />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DilnukaTilan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilnukaTilan&theme=react-dark&hide_border=true)
