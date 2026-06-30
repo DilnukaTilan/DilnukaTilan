@@ -70,61 +70,17 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-<h4 align="center">Languages</h4>
+**Languages:** *JavaScript*, *TypeScript*
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-  </a>
-</p>
+**Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
 
-<h4 align="center">Frontend & UI</h4>
+**Mobile:** *React Native*, *Expo*
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+**Backend & Runtime:** *Node.js*, *Express*, *Better Auth*
 
-<h4 align="center">Mobile</h4>
+**Database & Backend Platform:** *Supabase*, *MongoDB*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
-
-<h4 align="center">Backend & Runtime</h4>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/Better_Auth-6C63FF?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
-
-<h4 align="center">Database & Backend Platform</h4>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,mongodb&theme=dark" />
-  </a>
-</p>
-
-<h4 align="center">AI & Developer Tools</h4>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman&theme=dark" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+**AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
 
 ---
 
