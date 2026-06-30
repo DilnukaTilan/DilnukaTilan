@@ -70,17 +70,17 @@ const developer = {
 
 ## 🛠️ Tech Stack
 
-- **Languages:** *JavaScript*, *TypeScript*
+» **Languages:** *JavaScript*, *TypeScript*
 
-- **Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
+» **Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
 
-- **Mobile:** *React Native*, *Expo*
+» **Mobile:** *React Native*, *Expo*
 
-- **Backend & Runtime:** *Node.js*, *Express*, *Better Auth*
+» **Backend & Runtime:** *Node.js*, *Express*, *Better Auth*
 
-- **Database & Backend Platform:** *Supabase*, *MongoDB*
+» **Database & Backend Platform:** *Supabase*, *MongoDB*
 
-- **AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
+» **AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
 
 ---
 
