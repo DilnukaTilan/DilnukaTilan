@@ -74,13 +74,11 @@ const developer = {
 
 » **Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
 
-» **Mobile:** *React Native*, *Expo*
-
 » **Backend & Runtime:** *Node.js*, *Express*, *Better Auth*
 
 » **Database & Backend Platform:** *Supabase*, *MongoDB*
 
-» **AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
+» **AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Antigravity*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
 
 ---
 
