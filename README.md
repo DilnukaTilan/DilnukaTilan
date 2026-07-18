@@ -74,7 +74,7 @@ const developer = {
 
 » **Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
 
-» **Backend & Runtime:** *Node.js*, *Express*, *Better Auth*
+» **Backend & Runtime:** *Node.js*, *Express.js*, *Better Auth*
 
 » **Database & Backend Platform:** *Supabase*, *MongoDB*
 
