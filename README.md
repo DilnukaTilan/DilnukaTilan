@@ -82,17 +82,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=DilnukaTilan&theme=tokyonight&hide_border=false)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilnukaTilan&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
