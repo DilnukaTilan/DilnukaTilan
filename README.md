@@ -40,7 +40,7 @@
 
 - 🧑‍🎓 I'm an Undergraduate at **Plymouth University UK**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js**
+- 💬 Ask me about **Web Development**
 
 - 📫 Reach me at **[tilandilnuka@gmail.com](mailto:tilandilnuka@gmail.com)**
 
@@ -55,7 +55,7 @@ const developer = {
   name: "Tilan Dilnuka",
   role: "Full-Stack Developer",
   location: "🌍 Gampaha, Sri Lanka",
-  focus: ["Web Apps", "APIs", "Mobile Apps"],
+  focus: ["Web Apps", "APIs"],
   currently: "Building something cool 🚧",
   funFact: "I debug with console.log and I'm not ashamed.",
 };
