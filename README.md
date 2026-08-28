@@ -76,7 +76,7 @@ const developer = {
 
 » **Backend & Runtime:** *Node.js*, *Express.js*, *Better Auth*
 
-» **Database & Backend Platform:** *Supabase*, *MongoDB*
+» **Database & Backend Platform:** *Supabase*, *MongoDB*, *PostgreSQL*
 
 » **AI & Developer Tools:** *Vercel*, *Git*, *GitHub*, *VS Code*, *Antigravity*, *Postman*, *AI SDK*, *Claude Code*, *OpenAI Codex*
 
