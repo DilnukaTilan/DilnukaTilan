@@ -34,7 +34,7 @@
   
 <td width="50%" align="left">
   
-- 🌱 I'm currently learning **Agentic coding**
+- 🌱 I'm currently learning **Agentic Engineering**
 
 - 🧑‍🎓 I'm an Undergraduate at **Plymouth University UK**
 
