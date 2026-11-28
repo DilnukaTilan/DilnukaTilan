@@ -55,7 +55,7 @@ const developer = {
   location: "🌍 Gampaha, Sri Lanka",
   focus: ["Web Apps", "APIs"],
   currently: "Building something cool 🚧",
-  funFact: "I debug with console.log and I'm not ashamed.",
+  funFact: "I debug with console.log, and I'm not ashamed.",
 };
 ```
 
@@ -72,7 +72,7 @@ const developer = {
 
 » **Frontend & UI:** *React*, *Next.js*, *Tailwind CSS*, *shadcn/ui*, *Motion (Framer Motion)*
 
-» **Backend & Runtime:** *Node.js*, *Express.js*, *Better Auth*
+» **Backend & Runtime:** *Node.js*, *Express.js*
 
 » **Database & Backend Platform:** *Supabase*, *MongoDB*, *PostgreSQL*
 
